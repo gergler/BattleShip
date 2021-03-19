@@ -1,2 +1,2 @@
-# BattleShip
+# C++/BattleShip
 project number THREE
